@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ocaemaecee.inkhunter.tattoo/sitemap.xml
